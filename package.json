@@ -11,6 +11,7 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": "https://github.com/czfadmin/1z-extension-pack.git",
   "extensionPack": [
     "2gua.rainbow-brackets",
     "aaron-bond.better-comments",
