@@ -34,14 +34,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v2.4.0
 
-      - name: Install dependence 
-        run: npm install -g vsce
-        
-      - name: Package
-        run: vsce package
-        
 
